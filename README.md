@@ -1,2 +1,2 @@
-# LS_ML_week1
+# LS_ML
 This repository is for my assignments of Machine Learning course from Learner's space
